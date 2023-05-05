@@ -6,4 +6,4 @@ For training details, you are refer to the slurm jobs in the file folder "slurm"
 If you have problems, please contact me with bin06212213@gmail.com.
 
 # License and Acknowledgement
-Our code is built upon [repository_name](https://github.com/XPixelGroup/HAT)
+Our code is built upon [HAT](https://github.com/XPixelGroup/HAT)
